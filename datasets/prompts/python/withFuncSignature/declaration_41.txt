@@ -1,0 +1,1 @@
+Complete the function: def car_race_collision(n: int):

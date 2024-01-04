@@ -1,0 +1,1 @@
+Complete the function: def truncate_number(number: float) -> float:

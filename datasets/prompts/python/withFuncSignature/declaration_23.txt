@@ -1,0 +1,1 @@
+Complete the function: def strlen(string: str) -> int:

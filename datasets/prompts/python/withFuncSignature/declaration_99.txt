@@ -1,0 +1,1 @@
+Complete the function: def closest_integer(value):

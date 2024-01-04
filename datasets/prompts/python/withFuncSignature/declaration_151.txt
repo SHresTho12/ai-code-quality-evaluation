@@ -1,0 +1,1 @@
+Complete the function: def double_the_difference(lst):

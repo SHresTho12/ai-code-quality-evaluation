@@ -1,0 +1,1 @@
+Complete the function: def compare_one(a, b):

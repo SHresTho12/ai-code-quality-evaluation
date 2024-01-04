@@ -1,0 +1,1 @@
+Complete the function: def change_base(x: int, base: int):
