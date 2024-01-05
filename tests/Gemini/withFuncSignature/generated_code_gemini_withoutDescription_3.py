@@ -1,0 +1,34 @@
+
+from typing import List
+
+
+def below_zero(operations: List[int]) -> bool:
+    """
+    Checks if a sequence of operations, represented as integers, would ever result in a value below zero.
+
+    Args:
+        operations: A list of integers, where positive values represent additions and negative values represent subtractions.
+
+    Returns:
+        True if any intermediate result in the sequence would be below zero, False otherwise.
+    """
+
+    current_value = 0
+    for operation in operations:
+        current_value += operation
+        if current_value < 0:
+            return True
+
+    return False
+
+
+METADATA = { 'author': 'jt', 'dataset': 'test' } 
+def check(below_zero): 
+    assert below_zero([]) == False 
+    assert below_zero([1, 2, -3, 1, 2, -3]) == False 
+    assert below_zero([1, 2, -4, 5, 6]) == True 
+    assert below_zero([1, -1, 2, -2, 5, -5, 4, -4]) == False 
+    assert below_zero([1, -1, 2, -2, 5, -5, 4, -5]) == True 
+    assert below_zero([1, -2, 2, -2, 5, -5, 4, -4]) == True 
+
+check(below_zero)
