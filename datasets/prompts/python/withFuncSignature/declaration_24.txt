@@ -1,0 +1,1 @@
+Complete the function: def largest_divisor(n: int) -> int:

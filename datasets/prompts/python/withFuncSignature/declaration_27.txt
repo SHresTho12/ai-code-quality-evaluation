@@ -1,0 +1,1 @@
+Complete the function: def flip_case(string: str) -> str:

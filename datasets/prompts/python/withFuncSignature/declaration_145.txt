@@ -1,0 +1,1 @@
+Complete the function: def order_by_points(nums):

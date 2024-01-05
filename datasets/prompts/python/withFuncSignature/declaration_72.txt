@@ -1,0 +1,1 @@
+Complete the function: def will_it_fly(q,w):

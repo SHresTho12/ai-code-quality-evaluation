@@ -1,0 +1,1 @@
+Complete the function: def right_angle_triangle(a, b, c):

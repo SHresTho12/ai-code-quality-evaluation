@@ -1,0 +1,1 @@
+Complete the function: def max_element(l: list):

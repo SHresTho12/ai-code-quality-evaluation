@@ -1,0 +1,1 @@
+Complete the function: def select_words(s, n):

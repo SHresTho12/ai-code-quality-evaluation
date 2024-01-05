@@ -1,0 +1,1 @@
+Complete the function: def intersection(interval1, interval2):

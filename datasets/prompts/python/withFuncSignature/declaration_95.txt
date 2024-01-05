@@ -1,0 +1,1 @@
+Complete the function: def check_dict_case(dict):

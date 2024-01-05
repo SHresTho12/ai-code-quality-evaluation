@@ -1,0 +1,1 @@
+Complete the function: def prime_length(string):

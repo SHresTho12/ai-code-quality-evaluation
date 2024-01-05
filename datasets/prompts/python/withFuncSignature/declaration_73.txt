@@ -1,0 +1,1 @@
+Complete the function: def smallest_change(arr):

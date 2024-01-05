@@ -1,0 +1,1 @@
+Complete the function: def eat(number, need, remaining):

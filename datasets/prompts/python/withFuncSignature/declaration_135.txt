@@ -1,0 +1,1 @@
+Complete the function: def can_arrange(arr):

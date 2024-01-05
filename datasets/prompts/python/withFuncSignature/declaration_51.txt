@@ -1,0 +1,1 @@
+Complete the function: def remove_vowels(text):

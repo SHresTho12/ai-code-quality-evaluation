@@ -1,0 +1,1 @@
+Complete the function: def bf(planet1, planet2):
